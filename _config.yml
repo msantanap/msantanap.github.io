@@ -80,13 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Manuel A. Santana Palacios"
+  name             : "Manuel Santana Palacios"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Associate"
-  location         : "Location"
-  employer         : "University of North Carolina at Chapel Hill"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Postdoctoral Research Associate | University of North Carolina at Chapel Hill"
+  location         : "Chapel Hill, NC"
+  googlescholar    : "https://scholar.google.com/citations?user=mEaBWLQAAAAJ&hl=en"
   email            : "manusant@unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +101,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
