@@ -7,8 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an Urban Planner and currently a Postdoctoral Research Associate at UNC-Chapel Hill. My research interests lie at the intersection of transportation planning, equity, resiliency, and health. My work examines how benefits and costs from investments in transportation infrastructure impact population groups differently by income, race, and other forms of social stratification. I have more than three years of experience teaching planning methods, including spatial data analytics, inferential statistics, and qualitative inquiry. I completed my Ph.D. in City & Regional Planning at UC Berkeley.
-
-A data-driven personal website
-======
-Like many other
+I am an Urban/Transportation Planning Scholar. My research interests lie at the intersection of transportation planning, equity, resiliency, and health. My work examines how benefits and costs from investments in transportation infrastructure impact population groups differently by income, race, and other forms of social stratification. I have more than three years of experience teaching planning methods, including spatial data analytics, inferential statistics, and qualitative inquiry. I completed my Ph.D. in City & Regional Planning at UC Berkeley in 2021.
