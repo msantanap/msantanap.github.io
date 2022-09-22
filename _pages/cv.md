@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Civil Engineering, Universidad de Los Andes University, 2005
+*     Designated Emphasis in Global and Metropolitan Studies
+* M.S. in Transportation Engineering, Universidad de Los Andes University, 2009
+* Masters in Urban and Regional Planning, Universidad of California, Los Angeles, 2015
+* Ph.D in Urban and Regional Planning, Universidad of California, Berkeley, 2021
 
-Work experience
+Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022  -  Postdoctoral Research Associate
+  * University of North Carolina at Chapel Hill
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021 - 2022: Postdoctoral Researcher
+  * McGill University
 
 Publications
 ======
