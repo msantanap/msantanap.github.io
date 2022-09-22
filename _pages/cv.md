@@ -19,21 +19,6 @@ Education
 Appointments
 ======
 * 2022- Postdoctoral Research Associate
-** University of North Carolina at Chapel Hill
+  * University of North Carolina at Chapel Hill
 * 2021-2022: Postdoctoral Researcher
-** McGill University
-  
-
-Publications
-======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-  
-Teaching
-======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
+  * McGill University
