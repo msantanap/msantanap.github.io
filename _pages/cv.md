@@ -71,6 +71,7 @@ Courses Taught
 **Instructor of Record**
 * 2020:	University of California, Berkeley 
   	* Introduction to Urban Data Analytics – Undergraduate (Online) 
+
 **Lead Teaching Assistant**
 * 2017/18: University of Calfornia, Berkeley
  	* Introduction to Urban Data Analytics, Computer Lab Section – Undergraduate 
