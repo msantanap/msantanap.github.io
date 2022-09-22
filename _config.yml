@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manuel Santana Palacios' website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Manuel Santana Palacios"
 description              : &description "Postdoctoral Research Associate"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Manuel A. Santana Palacios"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research Associate"
   location         : "Location"
-  employer         :
+  employer         : "University of North Carolina at Chapel Hill
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "manusant@unc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "msantanap"
   google_plus      :
   keybase          :
   instagram        :
