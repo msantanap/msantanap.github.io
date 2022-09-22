@@ -82,3 +82,15 @@ Courses Taught
 * 2007/08: Universidad de Los Andes 
 	* Introduction to Civil Engineering, Computer Lab Section – Undergraduate course
   	* Travel Behavior Modeling – Graduate course
+
+Related Professional Experience
+====
+
+Conference Activity
+=====
+
+Service to Profession
+=====
+
+Institutional Service
+====
