@@ -4,11 +4,17 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Publications"
-    url: /publications/   
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Interests"
+    url: /interests/
+  
+  - title: "More About Me"
+    url: /moreaboutme/
+    
+  # - title: "Publications"
+  #  url: /publications/   
+  #
+  # - title: "Teaching"
+  #  url: /teaching/    
   #  
   #- title: "Talks"
   #  url: /talks/ 
