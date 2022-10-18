@@ -35,7 +35,7 @@ Teaching Experience
 * 2014/15: University of California, Los Angeles
 	* Quantitative Analysis in Urban Planning II, Computer Lab Section (Graduate Course)
 	* Quantitative Analysis in Urban Planning I, Computer Lab Section (Graduate Course)
-* 2007/08: Universidad de Los Andes 
+* 2007/08: Universidad de Los Andes
 	* Introduction to Civil Engineering, Computer Lab Section (Undergraduate Course)
   	* Travel Behavior Modeling (Graduate Course)
 
@@ -58,7 +58,7 @@ Publications
 * **Santana Palacios**, M. Comparative Analysis of Bogotá’s 1995 and 2005 Travel Surveys. Revista de Ingeniería de la Universidad de Los Andes 29, 148-155. http://dx.doi.org/10.16924%2Friua.v0i29.256
 
 **Under Review**
-
+* Lopez, S., **Santana Palacios**, M., Perdomo, V., Perez-Barbosa, D., Vega, J., Kisner, J., & Adriazola-Steil, C. On speed management, public health, and risky behaviors: examining the (side)effects of automated speed enforcement cameras on traffic crashes and injuries in Bogotá, Colombia. Under review in _Transportation Research Record: Journal of the Transportation Research Board_
 * Kapatsila, B., **Santana Palacios**, M., Grisé, E., & El-Geneidy, A. Resolving the accessibility dilemma: Comparing cumulative and gravity-based measures of accessibility in eight Canadian cities. Under review in the _Journal of Transport Geography_
 
 **Dissertation**
