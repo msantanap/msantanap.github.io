@@ -29,15 +29,15 @@ Teaching Experience
   	* Introduction to Urban Data Analytics (Undergraduate Online Course) 
 
 **Lead Teaching Assistant**
-* 2017/18: University of Calfornia, Berkeley
- 	* Introduction to Urban Data Analytics, Computer Lab Section (Undergraduate Course)
- 	* Planning Methods Part B, Computer Lab Section (Graduate Course)
-* 2014/15: University of California, Los Angeles
-	* Quantitative Analysis in Urban Planning II, Computer Lab Section (Graduate Course)
-	* Quantitative Analysis in Urban Planning I, Computer Lab Section (Graduate Course)
-* 2007/08: Universidad de Los Andes
-	* Introduction to Civil Engineering, Computer Lab Section (Undergraduate Course)
-  	* Travel Behavior Modeling (Graduate Course)
+* 2017/18: University of Calfornia, Berkeley.
+ 	* Introduction to Urban Data Analytics, Computer Lab Section (Undergraduate Course) 
+ 	* Planning Methods Part B, Computer Lab Section (Graduate Course) 
+* 2014/15: University of California, Los Angeles 
+	* Quantitative Analysis in Urban Planning II, Computer Lab Section (Graduate Course) 
+	* Quantitative Analysis in Urban Planning I, Computer Lab Section (Graduate Course) 
+* 2007/08: Universidad de Los Andes 
+	* Introduction to Civil Engineering, Computer Lab Section (Undergraduate Course) 
+  	* Travel Behavior Modeling (Graduate Course) 
 
 Publications
 =====
