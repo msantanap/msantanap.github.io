@@ -92,7 +92,7 @@ Related Professional Experience
 * 2013: Transportation Consultant
 	* Client: The World Bank
 	* Assessed the potential for Transit Oriented and Inclusive Development in the Greater Buenos Aires
-* 2011/14: Transportation Consultant
+* 2009/12: Transportation Consultant
 	* Steer Davies & Gleave
 	* Designed and forecasted demand for Bus Rapid Transit projects in Colombia and Panama
 	* Studied the potential impacts of changes in land uses on travel patterns in Medellin, Colombia.
