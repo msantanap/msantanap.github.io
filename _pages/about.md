@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an Urban and Regional Planning Scholar. My research interests lie at the intersection of transportation planning, equity, resiliency, and health. My work examines how investments in transportation infrastructure impact population groups differently by income, race, and other forms of social stratification. I have more than three years of experience teaching planning methods, including spatial data analytics, inferential statistics, and qualitative inquiry. I completed my Ph.D. in City & Regional Planning at UC Berkeley in 2021.
+I am an Urban and Regional Planning Scholar. My work examines how investments in urban infrastructures impact population groups differently by income, race, and other forms of social stratification. I have more than three years of experience teaching planning methods, including spatial data analytics, inferential statistics, and qualitative methods. I completed my Ph.D. in City & Regional Planning with a designated emphasis in Global and Metropolitan Studies from UC Berkeley.
