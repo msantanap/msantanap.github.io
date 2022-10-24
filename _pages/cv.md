@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D. in City & Regional Planning, Universidad of California, Berkeley, 2021
-* Masters in Urban & Regional Planning, Universidad of California, Los Angeles, 2015
-* M.S. in Transportation Engineering, Universidad de Los Andes University, 2009
-* B.E. in Civil Engineering, Universidad de Los Andes University, 2005
+* Master of Urban & Regional Planning, Universidad of California, Los Angeles, 2015
+* Master of Transportation Engineering, Universidad de Los Andes University, 2009
+* Bachelor's in Civil Engineering, Universidad de Los Andes University, 2005
 
 Appointments
 ======
