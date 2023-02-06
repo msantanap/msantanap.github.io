@@ -46,6 +46,9 @@ Publications
 
 **Peer Reviewed**
 
+**2023**
+* Kapatsila, B., **Santana Palacios**, M., Grisé, E., & El-Geneidy, A. Resolving the accessibility dilemma: Comparing cumulative and gravity-based measures of accessibility in eight Canadian cities. _Journal of Transport Geography_ 107 https://doi.org/10.1016/j.jtrangeo.2023.103530
+
 **2022**
 * **Santana Palacios**, M., & El-Geneidy, A. Cumulative versus gravity-based accessibility measures: Which one to use? _Findings_. https://doi.org/10.32866/001c.32444
 * DeWeese, J., **Santana Palacios**, M., Belikow, A., El-Geneidy, A. Express Access for Whom? Assessing the Equity Implications of Bus Express Routes in Montreal, Canada. _Journal of Transport and Land Use_ 14, 35-51. https://doi.org/10.5198/jtlu.2022.1879 
@@ -61,7 +64,6 @@ Publications
 
 **Under Review**
 * Lopez, S., **Santana Palacios**, M., Perdomo, V., Perez-Barbosa, D., Vega, J., Kisner, J., & Adriazola-Steil, C. On speed management, public health, and risky behaviors: examining the (side)effects of automated speed enforcement cameras on traffic crashes and injuries in Bogotá, Colombia. Revised and Resubmit to _Transportation Research Record: Journal of the Transportation Research Board_
-* Kapatsila, B., **Santana Palacios**, M., Grisé, E., & El-Geneidy, A. Resolving the accessibility dilemma: Comparing cumulative and gravity-based measures of accessibility in eight Canadian cities. Under review in the _Journal of Transport Geography_
 
 **Dissertation**
 
