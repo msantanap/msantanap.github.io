@@ -14,12 +14,12 @@ Education
 * Ph.D. in City & Regional Planning, Universidad of California, Berkeley, 2021
 * Master of Urban & Regional Planning, Universidad of California, Los Angeles, 2015
 * Master of Transportation Engineering, Universidad de Los Andes University, 2009
-* Bachelor's in Civil Engineering, Universidad de Los Andes University, 2005
 
 Appointments
 ======
-* 2022-  : Postdoctoral Research Associate, University of North Carolina at Chapel Hill
-* 2021-2022: Postdoctoral Researcher, McGill University
+* Fall 2023 - : Provost Scholar Assistant Professor. Knowlton School's City & Regional Planning Unit + Dept. City & Regional Planning, of Civil, Environmental and Geodetic Engineering, Ohio State University
+* 2022-2023: Postdoctoral Research Associate, Dept. City & Regional Planning, University of North Carolina at Chapel Hill
+* 2021-2022: Postdoctoral Researcher, Dept. Urban Planning, McGill University
 
 Teaching Experience
 ====
@@ -47,6 +47,8 @@ Publications
 **Peer Reviewed**
 
 **2023**
+* Lopez, S., **Santana Palacios**, M., Perdomo, V., Perez-Barbosa, D., Vega, J., Kisner, J., & Adriazola-Steil, C. On speed management, public health, and risky behaviors: examining the (side)effects of automated speed enforcement cameras on traffic crashes and injuries in Bogotá, Colombia. _Transportation Research Record: Journal of the Transportation Research Board_ (forthcoming)
+
 * Kapatsila, B., **Santana Palacios**, M., Grisé, E., & El-Geneidy, A. Resolving the accessibility dilemma: Comparing cumulative and gravity-based measures of accessibility in eight Canadian cities. _Journal of Transport Geography_ 107 https://doi.org/10.1016/j.jtrangeo.2023.103530
 
 **2022**
@@ -63,7 +65,7 @@ Publications
 * **Santana Palacios**, M. Comparative Analysis of Bogotá’s 1995 and 2005 Travel Surveys. Revista de Ingeniería de la Universidad de Los Andes 29, 148-155. http://dx.doi.org/10.16924%2Friua.v0i29.256
 
 **Under Review**
-* Lopez, S., **Santana Palacios**, M., Perdomo, V., Perez-Barbosa, D., Vega, J., Kisner, J., & Adriazola-Steil, C. On speed management, public health, and risky behaviors: examining the (side)effects of automated speed enforcement cameras on traffic crashes and injuries in Bogotá, Colombia. Revised and Resubmit to _Transportation Research Record: Journal of the Transportation Research Board_
+
 
 **Dissertation**
 
@@ -79,25 +81,23 @@ Publications
 **2015**
 * Rodríguez, D., **Santana Palacios**, M., & Pardo, C. La Motocicleta en América Latina: Caracterización de su Uso e Impactos en la Movilidad en Cinco Ciudades de la Región. Despacio Ed., _Development Bank of Latin America Publications_, 2015. ISBN: 978-958-57674-7-8. https://scioteca.caf.com/handle/123456789/754
 
-Related Professional Experience
-====
+Awards
+======
+**2023**
+* Provost’s Early Career Scholar, Ohio State University ($250,000)
 
-* Ongoing: Urban Data Analytics Consultant 
-	* Client: World Resource Institute
-	* Advised WRI on spatial data analytics and econometric methods for causal inference assessing the nexus between  road infrastructure, land uses, human behaviour, and public health
-* 2020: Transportation Consultant
-	* Client: Confidential
-	* Examined issues around voting suppression and social justice residents caused by dropbox ballots restrictions
-* 2011/14: Transportation Consultant
-	* Client: Development Bank of Latin America
-	* Conducted quantitative analyses of survey data to understand the rapid growth in motorcycle use an impacts on mobility and health in five Latin American metropolitan regions
-* 2013: Transportation Consultant
-	* Client: The World Bank
-	* Assessed the potential for Transit Oriented and Inclusive Development in the Greater Buenos Aires
-* 2009/12: Transportation Consultant
-	* Steer Davies & Gleave
-	* Designed and forecasted demand for Bus Rapid Transit projects in Colombia and Panama
-	* Studied the potential impacts of changes in land uses on travel patterns in Medellin, Colombia.
+**2018** 
+* UC Berkeley Student Mentoring and Research Teams Program Award ($ 5,000)
+
+**2017**
+* Tinker Field Research Grant ($ 1,400)
+* UC Berkeley Global Metropolitan Studies Pre-Dissertation Field Research Grant ($ 5,000)
+
+**2016**
+*  Ministry of Science, Technology and Innovation Doctoral Studies Scholarship Program ($ 190,000)
+
+**2013** 
+*  UCLA Department of Urban & Regional Planning Fellowship ($12,000)
 
 Conference Activity
 =====
@@ -151,3 +151,23 @@ Institutional Service
 * 2019/20: Mentor, University of California, Berkeley Undergraduate Research Apprentice Program
 * 2018:	Program Research Assistant. University of California, Berkeley, Global Metropolitan Studies Initiative 
 * 2017:	Mentor, University of California, Berkeley Student Mentor and Research Teams Program
+
+Related Professional Experience
+====
+
+* Ongoing: Urban Data Analytics Consultant 
+	* Client: World Resource Institute
+	* Advised WRI on spatial data analytics and econometric methods for causal inference assessing the nexus between  road infrastructure, land uses, human behaviour, and public health
+* 2020: Transportation Consultant
+	* Client: Confidential
+	* Examined issues around voting suppression and social justice residents caused by dropbox ballots restrictions
+* 2011/14: Transportation Consultant
+	* Client: Development Bank of Latin America
+	* Conducted quantitative analyses of survey data to understand the rapid growth in motorcycle use an impacts on mobility and health in five Latin American metropolitan regions
+* 2013: Transportation Consultant
+	* Client: The World Bank
+	* Assessed the potential for Transit Oriented and Inclusive Development in the Greater Buenos Aires
+* 2009/12: Transportation Consultant
+	* Steer Davies & Gleave
+	* Designed and forecasted demand for Bus Rapid Transit projects in Colombia and Panama
+	* Studied the potential impacts of changes in land uses on travel patterns in Medellin, Colombia.
