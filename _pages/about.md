@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an Urban and Regional Planning Scholar. My work examines how investments in urban infrastructures impact population groups differently by income, race, and other forms of social stratification. I have more than three years of experience teaching planning methods, including spatial data analytics, inferential statistics, and qualitative methods. I completed my Ph.D. in City & Regional Planning with a designated emphasis in Global and Metropolitan Studies from UC Berkeley.
+I am an Urban and Regional Planning Scholar. Starting in August 2023, I will join Ohio State University as an Assistant Professor jointly appointed by the Knowlton School of Architecture and the Department of Civil, Environmental, and Geodetic Engineering. I will also hold a Provost Early-Career Scholar Professorship. 
+
+My research takes an interdisciplinary and comparative perspective to investigate how investments in urban infrastructure and transportation policy change impact population groups differently by race, income, and other forms of stratification that divide society. I am broadly interested in public transportation investment, new transportation technologies, access and economic outcomes, and adaptation to climate change.
