@@ -17,7 +17,7 @@ Education
 
 Appointments
 ======
-* Fall 2023 - Present: Provost Scholar Assistant Professor. Knowlton School's City & Regional Planning Section + Dept. of Civil, Environmental and Geodetic Engineering, Ohio State University
+* Fall 2023 - : Provost Scholar Assistant Professor. Knowlton School's City & Regional Planning Section + Dept. of Civil, Environmental and Geodetic Engineering, Ohio State University
 * 2022-2023: Postdoctoral Research Associate, Dept. City & Regional Planning, University of North Carolina at Chapel Hill
 * 2021-2022: Postdoctoral Researcher, Dept. Urban Planning, McGill University
 
@@ -95,7 +95,7 @@ Awards
 * UC Berkeley Global Metropolitan Studies Pre-Dissertation Field Research Grant ($ 5,000)
 
 **2016**
-*  Ministry of Science, Technology and Innovation Doctoral Studies Scholarship Program ($ 190,000)
+*  Colombian Ministry of Science, Technology and Innovation Doctoral Studies Scholarship Program ($ 190,000)
 
 **2013** 
 *  UCLA Department of Urban & Regional Planning Fellowship ($12,000)
