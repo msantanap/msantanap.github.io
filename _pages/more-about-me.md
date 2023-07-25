@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "
+title: ""
 permalink: /more-about-me/
 author_profile: true
 redirect_from:
