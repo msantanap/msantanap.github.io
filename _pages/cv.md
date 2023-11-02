@@ -70,7 +70,7 @@ Publications
 
 **Doctoral Dissertation**
 
-* Public Transit Innovations, Equity, and Blind Spots: Examining the Benefits and Unintended Consequences of Investments in Public Transport Projects in Three Global South Cities. _University of California, Berkeley_. Committee: Daniel G. Chatman (Chair), Daniel G. Chatman, Daniel A. Rodriguez, Joan Walker. [link](https://github.com/msantanap/msantanap.github.io/blob/master/files/Santana%20Palacios%20PhD%20dissertation_Aug13_final.pdf)
+* Public Transit Innovations, Equity, and Blind Spots: Examining the Benefits and Unintended Consequences of Investments in Public Transport Projects in Three Global South Cities. _University of California, Berkeley_. Committee: Daniel G. Chatman (Chair), Daniel G. Chatman, Daniel A. Rodriguez, Joan Walker. [link](https://www.proquest.com/docview/2884028458?parentSessionId=NMb60LAWgSHn3bygbtDoY9jsCoZYNNoyZuaB6WHfbGo%3D)
 
 **Working Papers and Research Reports**
 
