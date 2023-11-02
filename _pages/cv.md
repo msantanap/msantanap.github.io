@@ -47,16 +47,16 @@ Publications
 **Peer Reviewed**
 
 **2023**
-* **Santana Palacios**, N., McDonald, E., Iacobucci. Impacts of Medicaid Transformation on Community Transit Systems in North Carolina: A Qualitative Analysis with Policy Implications. _Transportation Research Interdisciplinary Perspectives_ [link]()
+* **Santana Palacios**, N., McDonald, E., Iacobucci. Impacts of Medicaid Transformation on Community Transit Systems in North Carolina: A Qualitative Analysis with Policy Implications. _Transportation Research Interdisciplinary Perspectives_ [link](https://doi.org/10.1016/j.trip.2023.100918)
 
 * Lopez, S., **Santana Palacios**, M., Perdomo, V., Perez-Barbosa, D., Vega, J., Kisner, J., & Adriazola-Steil, C. On speed management, public health, and risky behaviors: examining the (side)effects of automated speed enforcement cameras on traffic crashes and injuries in Bogotá, Colombia. _Transportation Research Record: Journal of the Transportation Research Board_ [link](https://journals.sagepub.com/doi/10.1177/03611981231182419)
 
-* Kapatsila, B., **Santana Palacios**, M., Grisé, E., & El-Geneidy, A. Resolving the accessibility dilemma: Comparing cumulative and gravity-based measures of accessibility in eight Canadian cities. _Journal of Transport Geography_ 107 [link] (https://doi.org/10.1016/j.jtrangeo.2023.103530)
+* Kapatsila, B., **Santana Palacios**, M., Grisé, E., & El-Geneidy, A. Resolving the accessibility dilemma: Comparing cumulative and gravity-based measures of accessibility in eight Canadian cities. _Journal of Transport Geography_ 107 [link](https://doi.org/10.1016/j.jtrangeo.2023.103530)
 
 **2022**
 * **Santana Palacios**, M., & El-Geneidy, A. Cumulative versus gravity-based accessibility measures: Which one to use? _Findings_. [link](https://doi.org/10.32866/001c.32444)
 
-* DeWeese, J., **Santana Palacios**, M., Belikow, A., El-Geneidy, A. Express Access for Whom? Assessing the Equity Implications of Bus Express Routes in Montreal, Canada. _Journal of Transport and Land Use_ 14, 35-51. [link] (https://doi.org/10.5198/jtlu.2022.1879)
+* DeWeese, J., **Santana Palacios**, M., Belikow, A., El-Geneidy, A. Express Access for Whom? Assessing the Equity Implications of Bus Express Routes in Montreal, Canada. _Journal of Transport and Land Use_ 14, 35-51. [link](https://doi.org/10.5198/jtlu.2022.1879)
 
 **2021**	
 * **Santana Palacios**, M. & Rayle, L. Shorter Commutes, But for Who? Examining the Distributional Effect of Bus Rapid Transit on Commute Times in Barranquilla, Colombia and Cape Town, South Africa. _Journal of Transport and Land Use_ 14, 647-667. [link](https://doi.org/10.5198/jtlu.2021.1907)
@@ -65,7 +65,7 @@ Publications
 * **Santana Palacios**, M, Cochran, A., Bell, C., Hernández Jiménez, U., Leshner, E., Trejo Morales, F., & Chatman, D. Bus Rapid Transit Arrives in Barranquilla, Colombia: Understanding a Changing Landscape Through Residents’ Travel Experiences. _Travel Behaviour and Society_ 21, 131-139. [link](https://doi.org/10.1016/j.tbs.2020.06.003)
 
 **2009**	
-* **Santana Palacios**, M. Comparative Analysis of Bogotá’s 1995 and 2005 Travel Surveys. Revista de Ingeniería de la Universidad de Los Andes 29, 148-155. [link] (http://dx.doi.org/10.16924%2Friua.v0i29.256)
+* **Santana Palacios**, M. Comparative Analysis of Bogotá’s 1995 and 2005 Travel Surveys. Revista de Ingeniería de la Universidad de Los Andes 29, 148-155. [link](http://dx.doi.org/10.16924%2Friua.v0i29.256)
 
 **Under Review**
 
@@ -82,7 +82,7 @@ Publications
 * Barbour, E., Chatman, D., Yip, S., Doggett, S., **Santana Palacios**, M. SB 743 Implementation: Challenges and Opportunities. California Department of Transportation. https://doi.org/10.7922/G2S180Q7
 
 **2015**
-* Rodríguez, D., **Santana Palacios**, M., & Pardo, C. La Motocicleta en América Latina: Caracterización de su Uso e Impactos en la Movilidad en Cinco Ciudades de la Región. Despacio Ed., _Development Bank of Latin America Publications_, 2015. ISBN: 978-958-57674-7-8. [link] (https://scioteca.caf.com/handle/123456789/754)
+* Rodríguez, D., **Santana Palacios**, M., & Pardo, C. La Motocicleta en América Latina: Caracterización de su Uso e Impactos en la Movilidad en Cinco Ciudades de la Región. Despacio Ed., _Development Bank of Latin America Publications_, 2015. ISBN: 978-958-57674-7-8. [link](https://scioteca.caf.com/handle/123456789/754)
 
 Awards
 ======
